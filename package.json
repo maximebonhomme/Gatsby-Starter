@@ -1,0 +1,60 @@
+{
+  "name": "bonhomme-gatsby-starter",
+  "private": true,
+  "description": "Bonhomme - Gatsby Starter",
+  "version": "0.1.0",
+  "author": "Maxime Bonhomme <hello.bonhomme@gmail.com>",
+  "dependencies": {
+    "@xstyled/styled-components": "^1.15.1",
+    "gatsby": "^2.19.7",
+    "gatsby-cli": "^2.8.30",
+    "gatsby-image": "^2.2.39",
+    "gatsby-plugin-manifest": "^2.2.39",
+    "gatsby-plugin-offline": "^3.0.32",
+    "gatsby-plugin-react-helmet": "^3.1.21",
+    "gatsby-plugin-sharp": "^2.4.3",
+    "gatsby-plugin-styled-components": "^3.1.19",
+    "gatsby-source-filesystem": "^2.1.46",
+    "gatsby-source-prismic-graphql": "3.4.0-beta.2",
+    "gatsby-transformer-sharp": "^2.3.13",
+    "modern-normalize": "^0.6.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1",
+    "react-images": "^1.1.0-beta.3",
+    "react-use": "^13.22.4",
+    "rebound": "^0.1.0",
+    "slug": "^2.1.1",
+    "styled-components": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.7",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.20.1",
+    "gatsby-plugin-alias-imports": "^1.0.5",
+    "prettier": "^1.19.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
