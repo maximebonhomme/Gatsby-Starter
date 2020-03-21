@@ -23,14 +23,14 @@ Following [Brad Frost system](https://bradfrost.com/blog/post/atomic-web-design/
 
 Default alias list:
 
-- @src: src,
-- @utils: src/utils,
-- @components": src/components,
-- @pages: src/pages,
-- @atoms: src/components/atoms,
-- @molecules: src/components/molecules,
-- @organisms: src/components/organisms,
-- @assets: src/assets,
+- **@src**: src
+- **@utils**: src/utils
+- **@components**: src/components
+- **@pages**: src/pages
+- **@atoms**: src/components/atoms
+- **@molecules**: src/components/molecules
+- **@organisms**: src/components/organisms
+- **@assets**: src/assets
 
 <br />
 
