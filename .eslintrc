@@ -20,9 +20,9 @@
           ["@utils", "./src/utils"],
           ["@components", "./src/components"],
           ["@pages", "./src/pages"],
-          ["@atoms", "./src/atoms"],
-          ["@molecules", "./src/molecules"],
-          ["@organisms", "./src/organisms"],
+          ["@atoms", "./src/components/atoms"],
+          ["@molecules", "./src/components/molecules"],
+          ["@organisms", "./src/components/organisms"],
           ["@assets", "./src/assets"]
         ],
         "extensions": [".ts", ".js", ".jsx", ".json"]
