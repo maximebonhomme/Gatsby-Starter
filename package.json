@@ -24,7 +24,6 @@
     "react-images": "^1.1.0-beta.3",
     "react-use": "^13.22.4",
     "rebound": "^0.1.0",
-    "slug": "^2.1.1",
     "styled-components": "^5.0.0"
   },
   "devDependencies": {
@@ -37,7 +36,10 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "xstyled",
+    "alias",
+    "react-use"
   ],
   "license": "MIT",
   "scripts": {
@@ -51,9 +53,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/maximebonhomme/Gatsby-Starter"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/maximebonhomme/Gatsby-Starter/issues"
   }
 }
