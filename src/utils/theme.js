@@ -5,6 +5,7 @@ const theme = {
     md: 768,
     lg: 992,
     xl: 1200,
+    maxWidth: 1600,
   },
   colors: {
     primary: "#4ec0dc",

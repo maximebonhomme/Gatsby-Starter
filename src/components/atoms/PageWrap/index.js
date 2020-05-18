@@ -3,7 +3,7 @@ import styled from "@xstyled/styled-components"
 import PropTypes from "prop-types"
 
 const StyledPageWrap = styled.box`
-  max-width: 1600px;
+  max-width: ${({ theme }) => theme.breakpoints.maxWidth}px;
   margin: 0 auto;
   overflow: hidden;
 `
